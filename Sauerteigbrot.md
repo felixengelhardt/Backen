@@ -1,9 +1,9 @@
-Sauerteig Rezept von (https://kuechenchaotin.de/sauerteig-selber-machen/):
+**Sauerteig Rezept von (https://kuechenchaotin.de/sauerteig-selber-machen/):**
 
 200 g (Vollkorn-)Roggenmehl (Biomehl vom DM)
 200 ml lauwarmes Leitungswasser
 
-Tag 1
+**Tag 1**
 In einer mittelgroßen Schüssel (ich habe erst ein Marmeladenglas benutzt, was im
 nachhinein keine gute Idee war, da am zweiten Tag der Teig überging) 50 g des
 Mehls mit 50 ml des Wassers gut verrühren, bis ein klebriger Teig entstanden
@@ -12,23 +12,23 @@ offen (Ich habe den Deckel auf das Schraubglas gelegt, ging auch.) in der Küche
 bei mindestens 20 °C stehen lassen. (Wenn man den Geruch  nicht in der Küche
 haben will, kann man evtl. das Glas oder die Schüssel in eine Plastiktüte
 einpacken. Das Habe ich ab Tag 3 gemacht.)
-Tag 2
+**Tag 2**
 Den Sauerteig mit 50 g Mehl und 50 ml Wasser füttern und sehr gut umrühren.
 Zugedeckt, aber nicht luftdicht verschlossen erneut 24 Stunden bei ca. 20 °C
 stehen lassen.
-Tag 3
+**Tag 3**
 Eventuell riecht der Teig jetzt schon leicht sauer (Meiner roch eher würzig).
 Den Sauerteig mit 100 g Mehl und 100 g des Wassers verrühren, bis keine
 Klümpchen mehr vorhanden sind und abgedeckt ein weiteres mal stehen lassen.
-Tag 4
+**Tag 4**
 100 g werden abgenommen und in ein Schraubglas gefüllt, das im  Kühlschrank
 aufbewahrt wird und als Starter für einen neuen Sauerteig dient. Es kann hier
 7-14 Tage aufbewahrt werden. Das Glas bitte nicht fest verschließen, da der
 Sauerteig Gase bildet. Für den nächsten Sauerteig mit dem Starter aus dem
 Kühlschrank einfach wieder bei Tag 2 anfangen.
 
-Rezept Sauerteig Roggenmischbrot (angelehnt an das Rezept von
-(https://www.eat-this.org/brot-backen-mit-sauerteig/):
+**Rezept Sauerteig Roggenmischbrot (angelehnt an das Rezept von
+(https://www.eat-this.org/brot-backen-mit-sauerteig/):**
 
 ca. 100 g Sauerteig-Starter Roggen
 300 ml Wasser 27 °C warm
