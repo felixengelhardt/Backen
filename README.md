@@ -1,4 +1,4 @@
 # Backen
 Backrezepte
 
-[Sauerteig und Sauerteigbrot](Sauerteig.md)
+[Sauerteig und Sauerteigbrot](Sauerteigbrot.md)
