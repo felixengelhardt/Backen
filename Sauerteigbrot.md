@@ -16,17 +16,24 @@ haben will, kann man evtl. das Glas oder die Schüssel in eine Plastiktüte
 einpacken. Das Habe ich ab Tag 3 gemacht.)
 
 *Tag 2*
+
 Den Sauerteig mit 50 g Mehl und 50 ml Wasser füttern und sehr gut umrühren.
 Zugedeckt, aber nicht luftdicht verschlossen erneut 24 Stunden bei ca. 20 °C
 stehen lassen.
+
 *Tag 3*
+
 Eventuell riecht der Teig jetzt schon leicht sauer (Meiner roch eher würzig).
 Den Sauerteig mit 100 g Mehl und 100 g des Wassers verrühren, bis keine
 Klümpchen mehr vorhanden sind und abgedeckt ein weiteres mal stehen lassen.
+
 *Tag 4*
+
 Den Sauerteig mit 50 g Mehl und 50 ml Wasser füttern und sehr gut umrühren.
 Zugedeckt, aber nicht luftdicht verschlossen erneut 24 Stunden bei ca. 20 °C
 stehen lassen.
+
+
 **Rezept Sauerteig Roggenmischbrot (angelehnt an das Rezept von
 (https://www.eat-this.org/brot-backen-mit-sauerteig/):**
 
