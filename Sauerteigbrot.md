@@ -49,9 +49,11 @@ gut mit Mehl bestäuben, sonst klebt der Teig an. Das Brot im Ofen mit
 eingeschalteter Lampe oder bei niedriger Temperatur (< 50°C) ca. 1,5-2h gehen
 lassen.
  ![Brot beim gehen](beimGehen.jpg)
-Den Teigling auf ein Backblech mit Backpapier stürzen. Ofen aus 250°C 
+Den Teigling auf ein Backblech mit Backpapier stürzen. Ofen aus 250°C
 vorheizen und das Brot ca. 20min backen. Den Ofen abschalten und das Brot noch
-10min im Ofen lassen. reduzieren und das Brot 10min weiterbacken. Das Brot 
-sollte hohl klingen wenn man auf die Unterseite klopft (Handschuh benutzen, 
+10min im Ofen lassen. reduzieren und das Brot 10min weiterbacken. Das Brot
+sollte hohl klingen wenn man auf die Unterseite klopft (Handschuh benutzen,
 weil heiß). Wenn das nicht der Fall ist, länger backen. Das Brot aus dem Ofen
 holen und auskühlen lassen.
+ ![Fertiges Brot](brotFertig.jpg)
+ ![Angeschnittenes fertiges Brot](brotAngeschnitten.jpg)
